@@ -17,5 +17,4 @@
 #### 1. [Hotel Sofia Juanda Surabaya](https://www.hotelsofiajuanda.com/) |  | Sidoarjo `Dec'2021'-Apr'2022'`
    - Designer
    - Content Creator
-   - Create Automation using Python and VBA Excel for day-to-day routine
    - event organizer
